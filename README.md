@@ -4,6 +4,8 @@ LogFlow is a distributed log platform demo that generates logs from mock service
 
 [Project Walkthrough / Demo](https://drive.google.com/file/d/1WLmoh7zGybbAkQ_1HVyPyuRL_kSqpfQ9/view?usp=drive_link)
 
+**Status:** Complete demo. All services run via Docker Compose. No external dependencies — Kafka, Elasticsearch, and Zookeeper all spin up locally.
+
 ## What This Project Does
 
 This project supports two main use cases:
