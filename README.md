@@ -446,10 +446,9 @@ Useful ports:
 - `3000` Grafana
 - `9092` Kafka
 
-
 ## Makefile Commands
 
-Useful commands from [backend/Makefile](D:\logflow\logflow\backend\Makefile):
+Useful commands from [`backend/Makefile`](backend/Makefile):
 
 - `make dev`
 - `make up`
