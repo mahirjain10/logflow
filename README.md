@@ -2,6 +2,8 @@
 
 LogFlow is a distributed log platform demo that generates logs from mock services, routes them through Kafka, indexes them in Elasticsearch, and exposes them in a React dashboard for live monitoring and historical search.
 
+[Project Walkthrough / Demo](https://drive.google.com/file/d/1WLmoh7zGybbAkQ_1HVyPyuRL_kSqpfQ9/view?usp=drive_link)
+
 ## What This Project Does
 
 This project supports two main use cases:
@@ -20,8 +22,6 @@ The mock services currently covered are:
 Architecture flow:
 
 ![LogFlow Architecture](assets/logflow.png)
-
-[Project Walkthrough / Demo](https://drive.google.com/file/d/1WLmoh7zGybbAkQ_1HVyPyuRL_kSqpfQ9/view?usp=drive_link)
 
 Editable source: [assets/diagram.excalidraw](assets/diagram.excalidraw)
 
@@ -461,8 +461,3 @@ Useful commands from [backend/Makefile](D:\logflow\logflow\backend\Makefile):
 - `make docker-log`
 - `make docker-query`
 - `make docker-gateway`
-
-
-
-
-
